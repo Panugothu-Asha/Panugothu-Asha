@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Panugothu-Asha
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning....
 
 <!---
 Panugothu-Asha/Panugothu-Asha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
